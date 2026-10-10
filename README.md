@@ -22,7 +22,7 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
 </div>
-<h1>Hii 👋 I'm Suyash Rathod</h1>
+<h1>Hii 👋 I'm Pavan Londhe</h1>
 💫 About Me:
  I'm Currently Working On Data Analytics
 
